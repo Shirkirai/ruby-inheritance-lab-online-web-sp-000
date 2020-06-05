@@ -1,3 +1,5 @@
-class Student < User 
+require_relative "./vehicle.rb"
+
+class Student < User
 
 end
